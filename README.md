@@ -195,19 +195,15 @@ Egypt_Cybercrime_Analysis
 
 
 ## Power BI Dashboard
-![Power BI Dashboard1](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/2026-07-27%20(1).png)
+![Power BI Dashboard1]()
 ![Power BI Dashboard2]()
-![Power BI Dashboard3](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/2026-07-27%20(3).png)
+![Power BI Dashboard3]()
 
 
 ## Tableau Dashboard
-
-```markdown
-![Tableau Dashboard](Images/tableau_dashboard.png)
-```
-
----
-
+![Tableau Dashboard](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/2026-07-27%20(1).png)
+![Tableau Dashboard](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/2026-07-27%20(2).png)
+![Tableau Dashboard](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/2026-07-27%20(3).png)
 # 📂 Project Files
 
 | File | Location |
