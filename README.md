@@ -131,29 +131,16 @@ Each dashboard provides:
 ![Tableau Dashboard](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/2026-07-27%20(1).png)
 ![Tableau Dashboard](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/2026-07-27%20(2).png)
 ![Tableau Dashboard](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/2026-07-27%20(3).png)
+
 ## 📂 Project Files
 
-- 📄 **Dataset:** [Egypt_Cybercrime_Dataset.csv](Egypt_Cybercrime_Dataset_Enhanced.csv)
+- 📄 **Dataset:** [Egypt_Cybercrime_Dataset.csv](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/Egypt_Cybercrime_Dataset_Enhanced.csv)
 - 🐍 **Python Notebook:** [Egypt_Cybercrime_Analysis.ipynb](Python/Egypt_Cybercrime_Analysis.ipynb)
 - 🗄️ **SQL Queries:** [SQL_Queries.sql](SQL/SQL_Queries.sql)
 - 📊 **Excel Dashboard:** [Egypt_Cybercrime_Dashboard.xlsx](Excel%20Dashboard/Egypt_Cybercrime_Dashboard.xlsx)
 - 📈 **Power BI Dashboard:** [Egypt_Cybercrime_Dashboard.pbix](Power%20BI%20Dashboard/Egypt_Cybercrime_Dashboard.pbix)
 - 📉 **Tableau Dashboard:** [Egypt_Cybercrime_Dashboard.twbx](Tableau%20Dashboard/Egypt_Cybercrime_Dashboard.twbx)
 - 📑 **Presentation:** [Egypt_Cybercrime_Presentation.pptx](Presentation/Egypt_Cybercrime_Presentation.pptx)
-
-# 🔗 External Links
-| Resource | Link |
-|----------|------|
-| Dataset | YOUR_LINK_HERE |
-| Python Notebook | YOUR_LINK_HERE |
-| SQL Scripts | YOUR_LINK_HERE |
-| Excel Dashboard | YOUR_LINK_HERE |
-| Power BI Dashboard | YOUR_LINK_HERE |
-| Tableau Dashboard | YOUR_LINK_HERE |
-| Presentation | YOUR_LINK_HERE |
-| Project Demo Video (Optional) | YOUR_LINK_HERE |
-
----
 
 # 📈 Key Insights
 
