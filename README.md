@@ -21,6 +21,9 @@ Our goal was to analyze cybercrime patterns, identify fraud trends, build predic
 - Present meaningful insights through data visualization.
 
 ---
+## Presentation
+
+https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/Presentation_1.pptx
 
 # 📂 Project Workflow
 
