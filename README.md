@@ -23,7 +23,7 @@ Our goal was to analyze cybercrime patterns, identify fraud trends, build predic
 ---
 ## Presentation
 
-https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/Presentation_1.pptx
+![Presentation](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/Presentation_1.pptx)
 
 # 📂 Project Workflow
 
