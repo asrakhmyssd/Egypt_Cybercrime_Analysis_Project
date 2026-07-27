@@ -135,8 +135,7 @@ Each dashboard provides:
 ## 📂 Project Files
 
 - 📄 **Dataset:** [Egypt_Cybercrime_Dataset.csv](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/Egypt_Cybercrime_Dataset_Enhanced.csv)
-- 🐍 **Python Notebook:** [Egypt_Cybercrime_Analysis.ipynb](Python/Egypt_Cybercrime_Analysis.ipynb)
-- 🗄️ **SQL Queries:** [SQL_Queries.sql](SQL/SQL_Queries.sql)
+- 🐍 **Python Notebook And SQL Queries:** [Egypt_Cybercrime_Analysis.ipynb](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/Egypt_Cybercrime_Analysis%20(1).ipynb)
 - 📊 **Excel Dashboard:** [Egypt_Cybercrime_Dashboard.xlsx](Excel%20Dashboard/Egypt_Cybercrime_Dashboard.xlsx)
 - 📈 **Power BI Dashboard:** [Egypt_Cybercrime_Dashboard.pbix](Power%20BI%20Dashboard/Egypt_Cybercrime_Dashboard.pbix)
 - 📉 **Tableau Dashboard:** [Egypt_Cybercrime_Dashboard.twbx](Tableau%20Dashboard/Egypt_Cybercrime_Dashboard.twbx)
