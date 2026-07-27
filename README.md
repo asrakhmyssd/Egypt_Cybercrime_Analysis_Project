@@ -139,7 +139,7 @@ Each dashboard provides:
 - 📊 **Excel Dashboard:** [Egypt_Cybercrime_Dashboard.xlsx](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/Cyber_Fraud_Cleaned%20(version%201).csv)
 - 📈 **Power BI Dashboard:** [Egypt_Cybercrime_Dashboard.pbix](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/the%20winner%20team.pbix)
 - 📉 **Tableau Dashboard:** [Egypt_Cybercrime_Dashboard.twbx](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/Egypt_Cybercrime_Analysis.twb)
-- 📑 **Presentation:** [Egypt_Cybercrime_Presentation.pptx](Presentation/Egypt_Cybercrime_Presentation.pptx)
+- 📑 **Presentation:** [Egypt_Cybercrime_Presentation.pptx](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/Presentation_1.pptx)
 
 # 📈 Key Insights
 
@@ -180,7 +180,3 @@ Each dashboard provides:
 # 📄 License
 
 This project was developed as the Final Project for the **National Telecommunication Institute (NTI) Data Analysis Program** and is intended for educational and portfolio purposes.
-
----
-
-## ⭐ If you like this project, don't forget to give it a star!
