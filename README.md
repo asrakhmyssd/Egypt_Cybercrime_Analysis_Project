@@ -196,7 +196,7 @@ Egypt_Cybercrime_Analysis
 
 ## Power BI Dashboard
 ![Power BI Dashboard1](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/WhatsApp%20Image%202026-07-28%20at%201.47.31%20AM.jpeg)
-![Power BI Dashboard2]()
+![Power BI Dashboard2](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/WhatsApp%20Image%202026-07-28%20at%201.47.36%20AM.jpeg)
 ![Power BI Dashboard3]()
 
 
