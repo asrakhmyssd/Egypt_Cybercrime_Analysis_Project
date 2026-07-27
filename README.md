@@ -192,18 +192,13 @@ Egypt_Cybercrime_Analysis
 ---
 
 ## Excel Dashboard
-
-```markdown
-![Excel Dashboard](Images/excel_dashboard.png)
-```
+![Excel Dashboard](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/2026-07-28.png)
 
 ---
 
 ## Power BI Dashboard
 
-```markdown
 ![Power BI Dashboard](Images/powerbi_dashboard.png)
-```
 
 ---
 
