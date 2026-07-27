@@ -196,9 +196,8 @@ Egypt_Cybercrime_Analysis
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](Images/powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/2026-07-27%20(3).png)
 
----
 
 ## Tableau Dashboard
 
