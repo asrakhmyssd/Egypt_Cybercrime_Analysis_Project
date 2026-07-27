@@ -189,12 +189,10 @@ Egypt_Cybercrime_Analysis
 ![SQL](Images/sql.png)
 ```
 
----
 
 ## Excel Dashboard
 ![Excel Dashboard](https://github.com/asrakhmyssd/Egypt_Cybercrime_Analysis_Project/blob/main/2026-07-28.png)
 
----
 
 ## Power BI Dashboard
 
